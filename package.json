@@ -1,0 +1,20 @@
+{
+  "name": "eslint-plugin-codeguard",
+  "version": "1.0.0",
+  "description": "An ESLint plugin to enforce best practices and coding standards.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-plugin",
+    "eslint-plugin-codeguard"
+  ],
+  "author": "dpgaire",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^9.10.0",
+    "object-hash": "^3.0.0"
+  }
+}
