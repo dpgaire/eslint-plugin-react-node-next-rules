@@ -1,4 +1,3 @@
-````markdown
 # eslint-plugin-codeguard
 
 `eslint-plugin-codeguard` is an ESLint plugin designed to enforce best practices and coding standards in your JavaScript and TypeScript codebases. This plugin provides several rules to help maintain code quality and consistency.
@@ -10,7 +9,6 @@ To install the plugin, you need to add it as a development dependency in your pr
 ```bash
 npm install eslint-plugin-codeguard --save-dev
 ```
-````
 
 or with Yarn:
 
